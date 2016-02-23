@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thisaquaticlife.com]]></title>
+        <description><![CDATA[Thisaquaticlife.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 20:45:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am privileged enough at certain times of the year to visit a special watery location in southern Mozambique. I have been doing this since 2009 and am convinced that every year my trips get better and better. Tiger sharks,Galeocerdo cuvier,are on the top of my list when it comes to animals I must reunite with. And I have been lucky enough to have met a few in my time underwater. Good waves, the ever-present zambezi and hammerhead sharks and spearing a decent fish for sashimi are also on the list. But somehow the tiger shark is the one that occupies my mind for months, even years, after each encounter.</p>]]></description>
+            <link>undefinedea5be7c6-14e4-4653-8fb3-06db5d2efd49/index.html</link>
+            <guid isPermaLink="false">ea5be7c6-14e4-4653-8fb3-06db5d2efd49</guid>
+            <pubDate>Tue, 23 Feb 2016 20:45:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
