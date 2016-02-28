@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T16:30:38.502Z'
-dateModified: '2016-02-28T16:30:20.476Z'
+datePublished: '2016-02-28T16:53:36.525Z'
+dateModified: '2016-02-28T16:30:59.044Z'
 title: 'Fish on the Line, a series – things you should know'
 author: []
+sourcePath: _posts/2016-02-28-fish-on-the-line-a-series-things-you-should-know.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-fish-on-the-line-a-series-things-you-should-know.md
-published: true
 url: fish-on-the-line-a-series-things-you-should-know/index.html
 _type: Article
 
