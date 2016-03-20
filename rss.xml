@@ -4,7 +4,7 @@
         <description><![CDATA[This Aquatic Life]]></description>
         <link>http://thisaquaticlife.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 17:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 18:14:49 GMT</lastBuildDate>
         <atom:link href="http://thisaquaticlife.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Underwater Memories. Fading.]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Space. Black and White]]></title>
-            <description><![CDATA[<article><h1>Space. Black and White</h1><p>Bull Shark</p></article>]]></description>
+            <description><![CDATA[<article><h1>Space. Black and White</h1><p>Bull Shark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86667da6abf7c902947493b873fdf660b8e37bbf.jpg"></article>]]></description>
             <link>http://thisaquaticlife.com/space-black-and-white/index.html</link>
             <guid isPermaLink="false">a192419d-9be9-45f6-8ef6-b2d0c3c1be9b</guid>
-            <pubDate>Tue, 08 Mar 2016 19:11:08 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 18:14:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
