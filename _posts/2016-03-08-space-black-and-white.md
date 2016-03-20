@@ -5,27 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Bull Shark
-datePublished: '2016-03-08T19:11:08.188Z'
-dateModified: '2016-03-08T19:10:41.714Z'
+description: ''
+datePublished: '2016-03-20T18:14:48.999Z'
+dateModified: '2016-03-20T18:11:32.710Z'
 title: Space. Black and White
 author: []
+sourcePath: _posts/2016-03-08-space-black-and-white.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-space-black-and-white.md
-published: true
 url: space-black-and-white/index.html
 _type: Article
 
 ---
 # Space. Black and White
-
-Bull Shark
-
-Silvertip
-
-Bull shark. As shot
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86667da6abf7c902947493b873fdf660b8e37bbf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e98ac7e1-cb94-420c-86b8-8d789a331e1d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f36dec53b79f6e7d4c663630a7b0d33e0cdf0822.jpg)
