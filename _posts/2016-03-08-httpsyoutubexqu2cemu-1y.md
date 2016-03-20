@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.youtube.com/watch?v=xQU2cEMu-1Y'
-datePublished: '2016-03-20T18:15:00.680Z'
-dateModified: '2016-03-20T18:14:24.245Z'
+datePublished: '2016-03-20T18:50:30.347Z'
+dateModified: '2016-03-20T18:50:13.003Z'
 author: []
 title: Spearfishing with Bull Sharks. Aliwal Shoal. South Africa
 sourcePath: _posts/2016-03-08-httpsyoutubexqu2cemu-1y.md
@@ -23,4 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-https://www.youtube.com/watch?v=xQU2cEMu-1Y
+[https://www.youtube.com/watch?v=xQU2cEMu-1Y][0]
+
+[0]: https://www.youtube.com/watch?v=xQU2cEMu-1Y
